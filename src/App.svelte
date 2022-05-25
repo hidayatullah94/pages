@@ -17,3 +17,4 @@
 	}
 
 </style>
+<!-- //git remote add origin https://github.com/hidayatullah94/pages.git -->
